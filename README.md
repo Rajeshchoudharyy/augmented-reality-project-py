@@ -1,6 +1,6 @@
-RAJMH is a Python Augmented Reality application.
+SaltwashAR is a Python Augmented Reality application.
 
-RAJMH uses OpenCV computer vision to detect a 2D marker in a webcam, and OpenGL graphics library to render a 3D robot upon the marker.
+SaltwashAR uses OpenCV computer vision to detect a 2D marker in a webcam, and OpenGL graphics library to render a 3D robot upon the marker.
 
 We can interact with the robots:
 - ask a robot to search the web, translate phrases, help us gamble or practice acting, or provide a world weather report 
